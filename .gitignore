@@ -1,0 +1,7 @@
+# Ignoring executables
+*.o
+
+neat
+
+# Ignoring log files
+*.log
